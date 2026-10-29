@@ -1,0 +1,24 @@
+REINOS DE ELDMOR - versão web instalável (Android, iPhone e PC)
+
+O que tem aqui: o jogo pronto para colocar num site. Depois de aberto uma
+vez, ele fica salvo no aparelho e funciona até sem internet.
+
+1) COLOCAR NO AR (Hostinger)
+   - hPanel > Sites > Gerenciador de Arquivos.
+   - Dentro de public_html, crie uma pasta, por exemplo: eldmor
+   - Envie TODO o conteúdo deste .zip para essa pasta (ou envie o .zip e use
+     "Extrair"). O index.html precisa ficar direto dentro de eldmor/.
+   - Pronto: https://SEUDOMINIO/eldmor/
+   (Precisa ser https. Na Hostinger o SSL grátis já vem ligado.)
+
+2) INSTALAR COMO APLICATIVO
+   - Android (Chrome): abra o link > menu ⋮ > "Instalar app".
+   - iPhone (Safari): abra o link > botão Compartilhar > "Adicionar à Tela de Início".
+   - PC (Chrome ou Edge): abra o link > ícone de instalar na barra de endereço.
+
+3) ATUALIZAR O JOGO DEPOIS
+   - Substitua os arquivos pelos novos. O sw.js novo já vem com outra versão,
+     então os aparelhos baixam a atualização sozinhos na próxima abertura.
+
+Também funciona no itch.io: crie um projeto do tipo HTML, envie este .zip e
+marque "This file will be played in the browser".
