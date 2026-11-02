@@ -1,0 +1,14 @@
+REINOS DE ELDMOR - versão web instalável (Android, iPhone e PC)
+
+O que tem aqui: o jogo pronto para colocar num site grátis (GitHub Pages ou
+itch.io). Depois de aberto uma vez, ele fica salvo no aparelho e funciona até
+sem internet.
+
+INSTALAR COMO APLICATIVO
+- Android (Chrome): abra o link > menu ⋮ > "Instalar app".
+- iPhone (Safari): abra o link > Compartilhar > "Adicionar à Tela de Início".
+- PC (Chrome ou Edge): abra o link > ícone de instalar na barra de endereço.
+
+ATUALIZAR O JOGO DEPOIS
+- Substitua os arquivos pelos novos (pelo menos index.html e sw.js). O sw.js
+  novo vem com outra versão, então os aparelhos baixam a atualização sozinhos.
